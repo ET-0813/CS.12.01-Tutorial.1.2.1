@@ -10,7 +10,6 @@ class StepTrackerTest {
 
     @BeforeEach
     void setUp() {
-
         stepTracker = new StepTracker(10000);
     }
 
